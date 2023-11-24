@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 Tumblr: @vikeshcreationz
 Twitter: @vikeshcreationz
-Discord: @vikeshcreationz / Vikesh#3788
+Discord: @vikeshcreationz / Vikesh#3788 
 
 <!---
 hexerade/hexerade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
