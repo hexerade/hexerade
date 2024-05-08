@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @hexerade. Though, you can call me Vikesh, Vik, or Hex instead :D
-- 👀 I’m interested in... uh... Eddsworld :3 ...ooh also just theming random sites that's also fun. 
+I'm Vikesh Gray, a guy on the internet who makes mediocre music and furry art.
+- 👀 I’m interested in... uh... Eddsworld :3 
 - 🌱 I’m currently learning HTML.
-- 📫 How to reach me:
-Tumblr: @vikeshcreationz
-Twitter: @vikeshcreationz
-Discord: @vikeshcreationz / Vikesh#3788 
+
 
 <!---
 hexerade/hexerade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
