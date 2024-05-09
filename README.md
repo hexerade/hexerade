@@ -1,6 +1,6 @@
 I'm Vikesh Gray, a guy on the internet who makes mediocre music and furry art.
 - 👀 I’m interested in... uh... Eddsworld :3 
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning HTML. Also Spanish and Norwegian but those are irrelevant.
 
 
 <!---
