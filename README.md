@@ -1,5 +1,5 @@
 I'm Vikesh Gray, a guy on the internet who makes mediocre music and furry art.
-- 👀 I’m interested in... uh... Eddsworld :3 
+- 👀 I like Eddsworld, Rugrats, and... uhm... SpongeBob, I guess.
 - 🌱 I’m currently learning HTML. Also Spanish and Norwegian but those are irrelevant.
 
 
